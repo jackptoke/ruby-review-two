@@ -6,6 +6,10 @@
 
 # 3. In Ruby, what are booleans?
 
+true
+
+false
+
 # 4. How do classes relate to objects?
 
 # 5. What is an instance variable?
